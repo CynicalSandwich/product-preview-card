@@ -65,12 +65,10 @@ body {
     font-size: 2rem;
     font-weight: var(--font-weight-bold);
     color: var(--dark-cyan);
-    width: 50%;
 }
 
 .product-price__old {
     font-size: 0.8rem;
-    width: 50%;
 }
 
 .button {
